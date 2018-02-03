@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/undo.png</file>
+        <file>../images/Thumbs.db</file>
+        <file>../images/textcolor.png</file>
+        <file>../images/saveas.png</file>
+        <file>../images/save.png</file>
+        <file>../images/redo.png</file>
+        <file>../images/printText.png</file>
+        <file>../images/paste.png</file>
+        <file>../images/open.png</file>
+        <file>../images/notebook.png</file>
+        <file>../images/new.png</file>
+        <file>../images/info.png</file>
+        <file>../images/font.png</file>
+        <file>../images/exit.png</file>
+        <file>../images/delete.png</file>
+        <file>../images/cut.png</file>
+        <file>../images/copy.png</file>
+        <file>../images/close.png</file>
+        <file>../images/basecolor.png</file>
+    </qresource>
+</RCC>
